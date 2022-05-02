@@ -1,0 +1,6 @@
+name: StorageLimiter
+main: storageLimiter.plugin
+author: omni_keycard
+version: 1.0
+description: Ограничение количества мест в сундуках и бочках
+api-version: 1.15
